@@ -11,8 +11,11 @@ Since Solstice is no longer being maintained by anyone and I am not playing Mine
 
 - You can use **.irc connect** to connect to the IRC
 
-- You may need to reinject Solstice the first time due to the client generating your data.
+- You may need to reinject Solstice the first time due to the client generating data.
 
+- A license key for this client is **not** required (server-side authentication is disabled)
+  Your license will be activated automatically.
+  
 - This is a **fork** of Solstice developed by **lunii** and **angelmiari**
 
 - The client **will not** be getting updated to newer versions. Please do not ask me to do so.
@@ -24,3 +27,4 @@ Since Solstice is no longer being maintained by anyone and I am not playing Mine
 ## Requirements 
 - The current version of Solstice is **26.13**
 - You will need an injector to run this mod, I recommend using [Fate Injector](https://github.com/fligger/FateInjector).
+
