@@ -14,7 +14,7 @@ Since Solstice is no longer being maintained by anyone and I am not playing Mine
 - You may need to reinject Solstice the first time due to the client generating your data.
 
 - This is a **fork** of Solstice developed by **lunii** and **angelmiari**
-- 
+
 - The client **will not** be getting updated to newer versions. Please do not ask me to do so.
 
 - If the project continues being maintained from this point onwards, I am **not** responsible for it or any events that may occur.
