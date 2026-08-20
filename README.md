@@ -12,9 +12,6 @@ Since Solstice is no longer being maintained by anyone and I am not playing Mine
 - You can use **.irc connect** to connect to the IRC.
 
 - You may need to reinject Solstice the first time due to the client generating data.
-
-- A license key for this client is **not** required (server-side authentication is disabled)
-  your license will be activated automatically.
   
 - This is a **fork** of Solstice and is not based on the official repository.
 
