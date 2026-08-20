@@ -7,6 +7,7 @@ Since Solstice is no longer being maintained by anyone and I am not playing Mine
 ## Preview
 <img src="images/solstice.png" width=50%/>
 
+I made a playlist featuring my best Hive videos. You can check that out [here](https://www.youtube.com/watch?v=vxst54-BPuU&list=PLIFWzoGk5iAI)
 ## Important
 
 - You can use **.irc connect** to connect to the IRC.
