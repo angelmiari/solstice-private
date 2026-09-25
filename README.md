@@ -1,24 +1,19 @@
 ## Information
 
-Since Solstice is no longer being maintained by anyone and I am not playing Minecraft anymore, I decided to release it for you guys!
+Since Solstice is no longer being maintained by anyone and I am not playing Minecraft anymore, I decided to release it here.
 
 **Solstice** is a Hive utility mod for **Minecraft: Bedrock Edition**. It was originally created by **VastraKai** in June 2024, then shortly after, the ownership transferred over to **DarkNBTHax**.
+
+**This will be patched soon due to Hive switching to a prediction-based anticheat, enjoy it while it lasts!**
 
 ## Preview
 <img src="images/solstice.png" width=50%/>
 
-I made a playlist featuring my best Hive videos. You can check that out [here](https://www.youtube.com/watch?v=vxst54-BPuU&list=PLIFWzoGk5iAI)
-## Important
-
 - You can use **.irc connect** to connect to the IRC.
-
-- You may need to reinject Solstice the first time due to the client generating data.
   
 - This is a **fork** of Solstice and is not based on the official repository.
 
-- The client **will not** be getting updated to newer versions. Please do not ask me to do so.
-
-- If the project continues being maintained from this point onwards, I am **not** responsible for it or any events that may occur.
+- The client **will not** be getting updated to newer versions. Please do not ask me to.
 
 - The source code for Solstice **will not** be provided by me.
 
